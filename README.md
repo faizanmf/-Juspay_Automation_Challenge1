@@ -1,4 +1,4 @@
-#created a Test payment flow in Paypal application
+#created a Test flow in Flipkart application To validate the OTP section
 Lunch URl
 Enter the Product name
 Navigate to Product Detail page
